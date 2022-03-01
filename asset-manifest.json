@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FilmariaReact/static/css/main.4c71463e.css",
+    "main.js": "/FilmariaReact/static/js/main.25fe95d8.js",
+    "static/media/loading.gif": "/FilmariaReact/static/media/loading.beda580276083d4acfa5.gif",
+    "index.html": "/FilmariaReact/index.html",
+    "main.4c71463e.css.map": "/FilmariaReact/static/css/main.4c71463e.css.map",
+    "main.25fe95d8.js.map": "/FilmariaReact/static/js/main.25fe95d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c71463e.css",
+    "static/js/main.25fe95d8.js"
+  ]
+}
